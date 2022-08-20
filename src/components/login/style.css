@@ -1,0 +1,7 @@
+.Form{
+   text-align: center;
+   margin: auto;
+   display: flex;
+  justify-content: center;
+  padding: 50px;
+}
